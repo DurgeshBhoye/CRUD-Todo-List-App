@@ -1,4 +1,4 @@
-### Steps to configure and todolist frontend:
+## Steps to configure and todolist frontend:
 
 1. Open todolist folder in vscode 
 
@@ -19,7 +19,7 @@
   npm start
 ```
 
-### Steps to configure and run backend/server:
+## Steps to configure and run backend/server:
 
 1. Open backend folder in vscode 
 
