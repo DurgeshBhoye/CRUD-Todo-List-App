@@ -1,8 +1,6 @@
 
 ### Project Screenshots 
 <img src="img/screenshot1.jpg" alt="SS1">
-<img src="img/screenshot2.jpg" alt="SS2">
-
 
 ## Steps to configure and todolist frontend:
 
