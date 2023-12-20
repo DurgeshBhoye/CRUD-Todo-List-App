@@ -1,3 +1,9 @@
+
+### Project Screenshots 
+<img src="img/screenshot1.jpg" alt="SS1">
+<img src="img/screenshot2.jpg" alt="SS2">
+
+
 ## Steps to configure and todolist frontend:
 
 1. Open todolist folder in vscode 
@@ -58,9 +64,4 @@
 
 #### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=darkgreen)
-
-
-### Project Screenshots 
-<img src="img/screenshot1.jpg" alt="SS1">
-<img src="img/screenshot2.jpg" alt="SS2">
 
